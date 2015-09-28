@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "prompt": "^0.2.14",
+    "random-js": "^1.0.5",
+    "request": "^2.63.0"
+  }
+}
